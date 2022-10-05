@@ -1,5 +1,5 @@
 ### Hello there 👋
-I am a full stack developer that has worked on multiple projects and platforms using different languages such as Unity, Unreal Engine, Angular, React, Flask, Express, HTML, CSS, C##, C++, among others, feel free to checkout my projects.
+I am a full stack developer that has worked on multiple projects and platforms using different languages such as Unity, Unreal Engine, Angular, React, Flask, Express, HTML, CSS, C#, C++, among others, feel free to checkout my projects.
 
 ### Contact me
 - 📫 How to reach me: osvaldosalomonv@gmail.com
